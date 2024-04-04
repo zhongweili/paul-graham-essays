@@ -1,6 +1,7 @@
 nav:
     posts: 随笔
     recent: 最近
+    about: 关于
 footer:
     home: 首页
     rss: 订阅

@@ -15,18 +15,18 @@ export function formatDateMD(dateStr: string, locale: string = 'zh') {
     const date = DateTime.fromISO(dateStr)
     locale = defaultLocale // force to default language
     if (locale === 'en') {
-        return date.setLocale(locale).toFormat('dd, MMM')
+        return date.setLocale(locale).toFormat('MMM')
     }
-    return date.toFormat('MM-dd')
+    return date.toFormat('M月')
 }
 
 export function formatDateYMD(dateString: string, locale: string = 'zh') {
     locale = defaultLocale // force to default language
     const date = DateTime.fromISO(dateString)
     if (locale === 'en') {
-        return date.setLocale(locale).toFormat('dd, MMM, yyyy')
+        return date.setLocale(locale).toFormat('MMM, yyyy')
     }
-    return date.toFormat('yyyy-MM-dd')
+    return date.toFormat('yyyy-MM')
 }
 
 export function slugifySpace(old: string) {
