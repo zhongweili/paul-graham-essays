@@ -1,5 +1,5 @@
 ---
-title: how_to_get_new_ideas
+title: 如何获得新想法
 pubDate: 2023-01-01
 ---
 

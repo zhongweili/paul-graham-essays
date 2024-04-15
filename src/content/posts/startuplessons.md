@@ -1,5 +1,5 @@
 ---
-title: the_hardest_lessons_for_startups_to_learn
+title: 创业公司最难学到的几课
 pubDate: 2007-01-30
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: are_software_patents_evil
+title: 软件专利是邪恶的吗？
 pubDate: 2006-03-15
 ---
 

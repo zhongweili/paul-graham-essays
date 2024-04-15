@@ -1,5 +1,5 @@
 ---
-title: founder_control
+title: 创始人控制权
 pubDate: 2010-01-01
 ---
 

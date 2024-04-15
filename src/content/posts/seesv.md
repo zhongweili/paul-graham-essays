@@ -1,5 +1,5 @@
 ---
-title: where_to_see_silicon_valley
+title: 在哪里可以看到硅谷
 pubDate: 2010-01-01
 ---
 
@@ -52,7 +52,7 @@ pubDate: 2010-01-01
 
 天际线大道沿着圣克鲁斯山脉的山脊延伸。一侧是谷地，另一侧是海洋-因为它又冷又多雾，而且几乎没有港口，所以与硅谷的人们的生活关系很少，考虑到它的距离。沿着天际线的一些地方，主要树木是巨大的红杉树，而在其他地方是活橡树。红杉意味着那些是夜间海岸雾气的部分；红杉从雾气中凝结出雨水。MROSD管理着一系列 [伟大的步行道](http://www.openspace.org/) 从天际线出发。
 
-**9. [280](#where_to_see_silicon_valley_note280)(http://maps.google.com/maps?q=interstate+280+san+mateo)**
+**9. [280](#在哪里可以看到硅谷_note280)(http://maps.google.com/maps?q=interstate+280+san+mateo)**
 
 硅谷有两条贯穿全长的高速公路：101号，相当丑陋，和280号，是世界上最美丽的高速公路之一。我总是选择280号。注意西边的那条长长的窄湖？那就是圣安德烈亚斯断层。它沿着山脚，然后通过波托拉谷上山。MROSD的一条步道沿着 [断层线](http://www.openspace.org/preserves/pr_los_trancos.asp) 走。一系列富裕社区沿着280号西侧的山麓延伸：伍德赛德、波托拉谷、洛斯阿尔托斯山、萨拉托加、洛斯加托斯。
 

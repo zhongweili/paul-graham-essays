@@ -1,5 +1,5 @@
 ---
-title: a_fundraising_survival_guide
+title: 筹资生存指南
 pubDate: 2008-08-01
 ---
 

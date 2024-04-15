@@ -1,5 +1,5 @@
 ---
-title: novelty_and_heresy
+title: 新奇与异端
 pubDate: 2019-01-01
 ---
 

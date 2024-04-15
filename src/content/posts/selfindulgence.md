@@ -1,5 +1,5 @@
 ---
-title: how_to_lose_time_and_money
+title: 如何浪费时间与金钱
 pubDate: 2010-01-01
 ---
 

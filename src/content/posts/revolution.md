@@ -1,5 +1,5 @@
 ---
-title: a_local_revolution
+title: 地方性革命
 pubDate: 2009-01-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: startups_in_13_sentences
+title: 13句话里的创业秘诀
 pubDate: 2009-05-13
 ---
 

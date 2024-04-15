@@ -1,5 +1,5 @@
 ---
-title: how_to_be_silicon_valley
+title: 如何成为硅谷
 pubDate: 2006-08-02
 ---
 

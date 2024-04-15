@@ -1,5 +1,5 @@
 ---
-title: charisma__power
+title: 魅力与权力
 pubDate: 2017-01-01
 ---
 

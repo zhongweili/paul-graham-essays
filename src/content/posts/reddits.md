@@ -1,6 +1,6 @@
 ---
-title: The Reddit
-pubDate: 2024-03
+title: Reddit 的故事
+pubDate: 2024-03-02
 ---
 
 > 原文：https://www.paulgraham.com/reddits.html

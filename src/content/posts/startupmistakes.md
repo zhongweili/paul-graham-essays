@@ -1,5 +1,5 @@
 ---
-title: the_18_mistakes_that_kill_startups
+title: 18个致命错误：创业公司的致命伤
 pubDate: 2020-10-18
 ---
 

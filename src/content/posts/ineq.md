@@ -1,5 +1,5 @@
 ---
-title: economic_inequality
+title: 经济不平等
 pubDate: 2015-04-28
 ---
 

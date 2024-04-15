@@ -1,5 +1,5 @@
 ---
-title: being_a_noob
+title: 做一个新手
 pubDate: 2020-04-18
 ---
 

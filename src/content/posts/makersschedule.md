@@ -1,5 +1,5 @@
 ---
-title: makers_schedule_managers_schedule
+title: "创造者的时间表与管理者的时间表"
 pubDate: 2014-02-07
 ---
 

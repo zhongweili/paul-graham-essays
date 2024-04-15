@@ -1,5 +1,5 @@
 ---
-title: how_not_to_die
+title: 如何不至于失败
 pubDate: 2007-01-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: life_is_short
+title: 生命苦短
 pubDate: 2016-01-01
 ---
 

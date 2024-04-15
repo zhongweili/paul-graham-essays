@@ -1,5 +1,5 @@
 ---
-title: early_work
+title: 早期作品
 pubDate: 2020-01-01
 ---
 

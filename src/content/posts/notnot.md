@@ -1,5 +1,5 @@
 ---
-title: why_to_not_not_start_a_startup
+title: 为什么不不创业
 pubDate: 2009-08-28
 ---
 

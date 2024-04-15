@@ -1,5 +1,5 @@
 ---
-title: how_to_make_wealth
+title: 如何创造财富
 pubDate: 2006-01-26
 ---
 

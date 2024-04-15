@@ -1,5 +1,5 @@
 ---
-title: how_to_present_to_investors
+title: 如何向投资者展示你的项目
 pubDate: 2007-01-30
 ---
 

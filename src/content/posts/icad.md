@@ -1,5 +1,5 @@
 ---
-title: revenge_of_the_nerds-new
+title: 极客的复仇
 pubDate: 2001-12-14
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: tablets
+title: 平板电脑
 pubDate: 2010-01-01
 ---
 
-> 原文：https://www.paulgraham.com/tablets.html 
+> 原文：https://www.paulgraham.com/平板电脑.html 
 
             
 2010 年 12 月

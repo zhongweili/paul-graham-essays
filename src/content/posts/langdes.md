@@ -1,5 +1,5 @@
 ---
-title: five_questions_about_language_design
+title: 关于语言设计的五个问题
 pubDate: 2007-02-15
 ---
 

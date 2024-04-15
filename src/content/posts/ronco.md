@@ -1,5 +1,5 @@
 ---
-title: the_ronco_principle
+title: 罗恩科原则
 pubDate: 2015-01-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: good_and_bad_procrastination
+title: 好的和坏的拖延
 pubDate: 2006-02-09
 ---
 

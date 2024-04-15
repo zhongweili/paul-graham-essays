@@ -1,5 +1,5 @@
 ---
-title: the_two_kinds_of_moderate
+title: 两种类型的温和派
 pubDate: 2019-01-01
 ---
 

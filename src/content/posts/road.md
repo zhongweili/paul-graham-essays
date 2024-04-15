@@ -1,5 +1,5 @@
 ---
-title: the_other_road_ahead-new
+title: 前方的另一条路-新
 pubDate: 2001-01-01
 ---
 

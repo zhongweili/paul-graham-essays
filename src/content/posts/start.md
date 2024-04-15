@@ -1,5 +1,5 @@
 ---
-title: how_to_start_a_startup
+title: 如何创办一家初创公司
 pubDate: 2005-10-21
 ---
 

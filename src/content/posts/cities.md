@@ -1,5 +1,5 @@
 ---
-title: cities_and_ambition
+title: 城市与抱负
 pubDate: 2008-01-01
 ---
 

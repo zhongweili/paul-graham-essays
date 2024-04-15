@@ -1,5 +1,5 @@
 ---
-title: why_yc
+title: 为什么选择 YC（Y Combinator）
 pubDate: 2009-01-01
 ---
 

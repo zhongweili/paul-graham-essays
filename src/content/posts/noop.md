@@ -1,5 +1,5 @@
 ---
-title: why_arc_isnt_especially_objectoriented
+title: 为什么Arc并非特别面向对象
 pubDate: 1993-04
 ---
 

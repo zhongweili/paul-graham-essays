@@ -1,5 +1,5 @@
 ---
-title: the_future_of_startup_funding
+title: 创业融资的未来
 pubDate: 2010-01-01
 ---
 

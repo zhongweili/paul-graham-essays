@@ -1,5 +1,5 @@
 ---
-title: an_nft_that_saves_lives
+title: 一种拯救生命的 NFT
 pubDate: 2021-01-01
 ---
 

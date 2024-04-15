@@ -1,5 +1,5 @@
 ---
-title: the_equity_equation
+title: 《股权方程》
 pubDate: 2007-07-17
 ---
 

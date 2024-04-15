@@ -1,5 +1,5 @@
 ---
-title: inequality_and_risk
+title: 不平等与风险
 pubDate: 2006-01-07
 ---
 

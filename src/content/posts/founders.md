@@ -1,5 +1,5 @@
 ---
-title: what_we_look_for_in_founders
+title: 我们在创始人身上寻找的品质
 pubDate: 2010-01-01
 ---
 

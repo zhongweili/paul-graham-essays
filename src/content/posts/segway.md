@@ -1,5 +1,5 @@
 ---
-title: the_trouble_with_the_segway
+title: 赛格威的问题所在
 pubDate: 2009-01-01
 ---
 

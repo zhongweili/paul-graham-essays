@@ -1,5 +1,5 @@
 ---
-title: the_roots_of_lisp
+title: Lisp的根源
 pubDate: 2007-02-02
 ---
 

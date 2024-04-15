@@ -1,5 +1,5 @@
 ---
-title: why_to_start_a_startup_in_a_bad_economy
+title: 为什么在经济不景气时创办一家初创公司
 pubDate: 2008-10-01
 ---
 

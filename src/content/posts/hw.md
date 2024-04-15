@@ -1,5 +1,5 @@
 ---
-title: the_hardware_renaissance
+title: 硬件复兴时代
 pubDate: 2012-05-11
 ---
 

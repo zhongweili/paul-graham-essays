@@ -1,5 +1,5 @@
 ---
-title: bradleys_ghost
+title: 布拉德利的幽灵
 pubDate: 2007-01-27
 ---
 

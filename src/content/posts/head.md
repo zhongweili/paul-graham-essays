@@ -1,5 +1,5 @@
 ---
-title: holding_a_program_in_ones_head
+title: 在脑海中构建程序
 pubDate: 2007-01-01
 ---
 

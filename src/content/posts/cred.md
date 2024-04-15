@@ -1,5 +1,5 @@
 ---
-title: coronavirus_and_credibility
+title: 冠状病毒与可信度
 pubDate: 2020-01-01
 ---
 

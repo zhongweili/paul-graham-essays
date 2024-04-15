@@ -1,5 +1,5 @@
 ---
-title: the_risk_of_discovery
+title: 发现的风险
 pubDate: 2017-01-01
 ---
 

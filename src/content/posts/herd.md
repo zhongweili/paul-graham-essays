@@ -1,5 +1,5 @@
 ---
-title: investor_herd_dynamics
+title: 投资者群体动态
 pubDate: 2013-08-26
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: putting_ideas_into_words
+title: 将想法转化为文字
 pubDate: 2022-01-01
 ---
 

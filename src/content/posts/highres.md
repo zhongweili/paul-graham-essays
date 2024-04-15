@@ -1,5 +1,5 @@
 ---
-title: the_highres_society
+title: 高清晰度社会
 pubDate: 2008-01-01
 ---
 

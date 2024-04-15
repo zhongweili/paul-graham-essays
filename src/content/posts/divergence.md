@@ -1,5 +1,5 @@
 ---
-title: could_vc_be_a_casualty_of_the_recession
+title: 经济衰退会让风险投资成为牺牲品吗？
 pubDate: 2008-12-07
 ---
 

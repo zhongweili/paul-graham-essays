@@ -1,5 +1,5 @@
 ---
-title: the_bus_ticket_theory_of_genius
+title: 巴士票理论与天才
 pubDate: 2022-01-01
 ---
 

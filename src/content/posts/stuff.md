@@ -1,9 +1,9 @@
 ---
-title: stuff
+title: 物品
 pubDate: 2008-07-01
 ---
 
-> 原文：https://www.paulgraham.com/stuff.html 
+> 原文：https://www.paulgraham.com/物品.html 
 
             
 2007年7月，我拥有太多的东西。大多数美国人也是如此。事实上，人们越贫穷，似乎拥有的东西就越多。几乎没有人如此贫穷，以至于买不起一院子的旧车。

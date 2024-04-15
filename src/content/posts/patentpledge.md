@@ -1,5 +1,5 @@
 ---
-title: the_patent_pledge
+title: 专利承诺
 pubDate: 2011-04-27
 ---
 

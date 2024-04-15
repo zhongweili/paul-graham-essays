@@ -1,5 +1,5 @@
 ---
-title: how_to_be_an_expert_in_a_changing_world
+title: 如何在一个不断变化的世界中成为专家
 pubDate: 2020-01-01
 ---
 

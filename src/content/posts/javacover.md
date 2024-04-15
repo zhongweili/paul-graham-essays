@@ -1,5 +1,5 @@
 ---
-title: javas_cover
+title: Java的掩饰
 pubDate: 2005-12-13
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: be_good
+title: 做好人
 pubDate: 2008-08-01
 ---
 

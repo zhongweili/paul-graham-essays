@@ -1,5 +1,5 @@
 ---
-title: mean_people_fail
+title: 刻薄的人注定失败
 pubDate: 2014-01-01
 ---
 

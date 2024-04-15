@@ -1,5 +1,5 @@
 ---
-title: how_to_do_great_work-new
+title: 如何做出伟大的工作
 pubDate: 2023-01-01
 ---
 

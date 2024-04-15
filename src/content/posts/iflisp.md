@@ -1,5 +1,5 @@
 ---
-title: if_lisp_is_so_great
+title: 如果Lisp这么棒，为什么不是每个人都在用呢？
 pubDate: 2003-01-01
 ---
 

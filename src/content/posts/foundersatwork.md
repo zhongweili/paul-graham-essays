@@ -1,5 +1,5 @@
 ---
-title: learning_from_founders
+title: 从创始人身上学到的东西
 pubDate: 2007-01-01
 ---
 

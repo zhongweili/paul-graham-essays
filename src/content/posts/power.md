@@ -1,5 +1,5 @@
 ---
-title: succinctness_is_power
+title: 简洁即力量
 pubDate: 2002-01-01
 ---
 

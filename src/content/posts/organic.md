@@ -1,5 +1,5 @@
 ---
-title: organic_startup_ideas
+title: 有机创业点子
 pubDate: 2004-01-01
 ---
 

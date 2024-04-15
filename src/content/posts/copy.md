@@ -1,5 +1,5 @@
 ---
-title: copy_what_you_like
+title: 模仿你喜欢的东西
 pubDate: 2006-01-01
 ---
 

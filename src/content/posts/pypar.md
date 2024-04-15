@@ -1,5 +1,5 @@
 ---
-title: the_python_paradox
+title: Python悖论
 pubDate: 2014-12-01
 ---
 

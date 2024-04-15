@@ -1,5 +1,5 @@
 ---
-title: write_simply
+title: 简洁地写作
 pubDate: 2021-01-01
 ---
 

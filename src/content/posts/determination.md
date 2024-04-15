@@ -1,5 +1,5 @@
 ---
-title: the_anatomy_of_determination
+title: 决心的解剖
 pubDate: 2009-09-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: beating_the_averages
+title: 击败平均水平
 pubDate: 2003-01-01
 ---
 

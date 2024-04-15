@@ -1,5 +1,5 @@
 ---
-title: why_nerds_are_unpopular
+title: 为什么书呆子不受欢迎
 pubDate: 2009-03-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: modeling_a_wealth_tax
+title: 建模财富税
 pubDate: 2020-01-01
 ---
 

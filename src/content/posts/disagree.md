@@ -1,5 +1,5 @@
 ---
-title: how_to_disagree
+title: 如何有理有据地进行争论
 pubDate: 2009-06-07
 ---
 

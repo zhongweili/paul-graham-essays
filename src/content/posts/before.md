@@ -1,5 +1,5 @@
 ---
-title: before_the_startup
+title: 创业之前
 pubDate: 2014-01-01
 ---
 

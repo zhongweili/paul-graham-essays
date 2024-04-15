@@ -1,5 +1,5 @@
 ---
-title: orthodox_privilege
+title: 正统特权
 pubDate: 2020-01-01
 ---
 

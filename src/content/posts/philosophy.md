@@ -1,5 +1,5 @@
 ---
-title: how_to_do_philosophy
+title: 如何进行哲学思考
 pubDate: 2008-08-01
 ---
 

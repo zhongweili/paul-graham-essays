@@ -1,5 +1,5 @@
 ---
-title: how_people_get_rich_now
+title: 人们现在是如何变富的
 pubDate: 2020-01-01
 ---
 

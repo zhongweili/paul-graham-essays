@@ -1,5 +1,5 @@
 ---
-title: hackers_and_painters
+title: 黑客与画家
 pubDate: 2003-01-01
 ---
 

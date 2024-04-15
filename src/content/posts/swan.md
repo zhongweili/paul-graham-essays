@@ -1,5 +1,5 @@
 ---
-title: black_swan_farming
+title: 黑天鹅养殖
 pubDate: 2012-01-01
 ---
 

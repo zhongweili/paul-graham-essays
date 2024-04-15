@@ -1,5 +1,5 @@
 ---
-title: ideas_for_startups
+title: 给初创公司的点子
 pubDate: 2006-04-21
 ---
 

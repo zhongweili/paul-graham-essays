@@ -1,5 +1,5 @@
 ---
-title: two_kinds_of_judgement
+title: 两种类型的判断
 pubDate: 2020-02-01
 ---
 

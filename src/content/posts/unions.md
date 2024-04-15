@@ -1,5 +1,5 @@
 ---
-title: an_alternative_theory_of_unions
+title: 工会的另一种理论解读
 pubDate: 2007-01-01
 ---
 

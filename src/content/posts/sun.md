@@ -1,5 +1,5 @@
 ---
-title: general_and_surprising
+title: 普遍与惊奇
 pubDate: 2017-01-01
 ---
 

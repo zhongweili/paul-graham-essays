@@ -1,5 +1,5 @@
 ---
-title: a_unified_theory_of_vc_suckage
+title: 风投糟糕理论的统一解读
 pubDate: 2007-02-14
 ---
 

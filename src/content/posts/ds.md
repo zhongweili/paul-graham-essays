@@ -1,5 +1,5 @@
 ---
-title: do_things_that_dont_scale
+title: 做那些不可扩展的事情
 pubDate: 2013-07-25
 ---
 

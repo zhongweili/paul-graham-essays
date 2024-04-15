@@ -1,5 +1,5 @@
 ---
-title: a_version_10
+title: 版本10
 pubDate: 2004-01-01
 ---
 

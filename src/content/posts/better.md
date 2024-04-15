@@ -1,5 +1,5 @@
 ---
-title: better_bayesian_filtering
+title: 更好的贝叶斯过滤器
 pubDate: 2002-12-10
 ---
 

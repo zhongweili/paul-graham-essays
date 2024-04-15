@@ -1,5 +1,5 @@
 ---
-title: snapshot_viaweb_june_1998
+title: Viaweb 快照：1998年6月
 pubDate: 1998-01-01
 ---
 

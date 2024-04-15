@@ -1,5 +1,5 @@
 ---
-title: how_to_write_usefully
+title: 如何写出有用的内容
 pubDate: 2020-01-01
 ---
 

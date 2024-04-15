@@ -1,5 +1,5 @@
 ---
-title: fierce_nerds
+title: 凶猛的书呆子
 pubDate: 2021-01-01
 ---
 

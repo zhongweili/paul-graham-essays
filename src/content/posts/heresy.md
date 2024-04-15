@@ -1,9 +1,9 @@
 ---
-title: heresy
+title: 异端观点
 pubDate: 2022-03-18
 ---
 
-> 原文：https://www.paulgraham.com/heresy.html 
+> 原文：https://www.paulgraham.com/异端观点.html 
 
             
 2022 年 4 月

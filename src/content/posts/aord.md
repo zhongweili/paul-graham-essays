@@ -1,5 +1,5 @@
 ---
-title: default_alive_or_default_dead
+title: 默认存活还是默认死亡
 pubDate: 2015-01-01
 ---
 

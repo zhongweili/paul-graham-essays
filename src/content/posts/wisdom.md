@@ -1,5 +1,5 @@
 ---
-title: is_it_worth_being_wise
+title: 成为智者是否值得？
 pubDate: 2008-08-01
 ---
 

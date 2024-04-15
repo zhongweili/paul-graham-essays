@@ -1,5 +1,5 @@
 ---
-title: how_y_combinator_started
+title: Y Combinator 是如何开始的
 pubDate: 2005-03-11
 ---
 

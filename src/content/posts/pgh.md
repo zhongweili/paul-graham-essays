@@ -1,5 +1,5 @@
 ---
-title: how_to_make_pittsburgh_a_startup_hub
+title: 如何将匹兹堡打造成创业中心
 pubDate: 2016-04-06
 ---
 

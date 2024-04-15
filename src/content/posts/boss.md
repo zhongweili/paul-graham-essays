@@ -1,5 +1,5 @@
 ---
-title: you_werent_meant_to_have_a_boss
+title: 你并非生来就该有老板
 pubDate: 2008-08-01
 ---
 

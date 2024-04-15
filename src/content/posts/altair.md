@@ -1,5 +1,5 @@
 ---
-title: what_microsoft_is_this_the_altair_basic_of
+title: 这是微软的Altair BASIC吗？
 pubDate: 2015-01-01
 ---
 

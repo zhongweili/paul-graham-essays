@@ -1,5 +1,5 @@
 ---
-title: what_kate_saw_in_silicon_valley
+title: 凯特在硅谷所见
 pubDate: 2009-01-01
 ---
 

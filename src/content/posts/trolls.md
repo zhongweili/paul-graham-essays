@@ -1,9 +1,9 @@
 ---
-title: trolls
+title: 网络喷子
 pubDate: 2008-08-01
 ---
 
-> 原文：https://www.paulgraham.com/trolls.html 
+> 原文：https://www.paulgraham.com/网络喷子.html 
 
             
 2008年2月

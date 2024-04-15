@@ -1,5 +1,5 @@
 ---
-title: six_principles_for_making_new_things
+title: 创造新事物的六大原则
 pubDate: 1995-01-01
 ---
 

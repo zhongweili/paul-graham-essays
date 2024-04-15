@@ -1,5 +1,5 @@
 ---
-title: what_made_lisp_different
+title: Lisp 之所以与众不同的原因
 pubDate: 2007-02-17
 ---
 

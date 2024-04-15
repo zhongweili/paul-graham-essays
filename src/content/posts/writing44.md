@@ -1,5 +1,5 @@
 ---
-title: writing__briefly
+title: 简洁地写作
 pubDate: 2007-10-16
 ---
 

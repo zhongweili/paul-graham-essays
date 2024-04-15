@@ -1,5 +1,5 @@
 ---
-title: relentlessly_resourceful
+title: 不懈地富有资源fulness
 pubDate: 2009-01-01
 ---
 

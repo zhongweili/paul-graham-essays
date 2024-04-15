@@ -1,5 +1,5 @@
 ---
-title: startup_investing_trends
+title: 创业投资趋势
 pubDate: 2013-01-01
 ---
 

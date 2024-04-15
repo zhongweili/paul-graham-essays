@@ -1,5 +1,5 @@
 ---
-title: what_business_can_learn_from_open_source
+title: 企业可以从开源软件中学到什么
 pubDate: 2008-12-01
 ---
 

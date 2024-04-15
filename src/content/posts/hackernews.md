@@ -1,5 +1,5 @@
 ---
-title: what_ive_learned_from_hacker_news
+title: 从黑客新闻中我学到了什么
 pubDate: 2009-01-01
 ---
 

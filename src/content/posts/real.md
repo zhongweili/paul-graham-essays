@@ -1,5 +1,5 @@
 ---
-title: the_real_reason_to_end_the_death_penalty
+title: 废除死刑的真正原因
 pubDate: 2019-12-29
 ---
 

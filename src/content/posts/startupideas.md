@@ -1,5 +1,5 @@
 ---
-title: how_to_get_startup_ideas
+title: 如何获得创业点子
 pubDate: 2012-01-01
 ---
 

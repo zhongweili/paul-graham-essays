@@ -1,5 +1,5 @@
 ---
-title: a_word_to_the_resourceful
+title: 给有魄力的人的一句话
 pubDate: 2012-01-01
 ---
 

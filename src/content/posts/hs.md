@@ -1,5 +1,5 @@
 ---
-title: what_youll_wish_youd_known
+title: 你会希望早知道的事情
 pubDate: 2005-01-01
 ---
 

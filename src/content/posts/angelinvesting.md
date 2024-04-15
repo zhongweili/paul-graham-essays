@@ -1,5 +1,5 @@
 ---
-title: how_to_be_an_angel_investor
+title: 如何成为一名天使投资人
 pubDate: 1998-01-01
 ---
 

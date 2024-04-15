@@ -1,5 +1,5 @@
 ---
-title: why_there_arent_more_googles
+title: 为什么没有更多的谷歌
 pubDate: 2008-08-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: subject_airbnb
+title: Airbnb 的主题思考
 pubDate: 2011-03-01
 ---
 

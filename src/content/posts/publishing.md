@@ -1,5 +1,5 @@
 ---
-title: postmedium_publishing
+title: 后媒体时代的出版
 pubDate: 2009-01-01
 ---
 

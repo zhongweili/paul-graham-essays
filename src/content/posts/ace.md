@@ -1,5 +1,5 @@
 ---
-title: billionaires_build
+title: 亿万富翁的建造之道
 pubDate: 2020-01-01
 ---
 

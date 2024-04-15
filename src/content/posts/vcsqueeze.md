@@ -1,5 +1,5 @@
 ---
-title: the_venture_capital_squeeze
+title: 风险资本的紧缩局面
 pubDate: 2007-02-05
 ---
 

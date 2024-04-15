@@ -1,5 +1,5 @@
 ---
-title: undergraduation
+title: 本科生涯的误区
 pubDate: 2005-01-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: design_and_research
+title: 设计与研究
 pubDate: 2003-01-01
 ---
 

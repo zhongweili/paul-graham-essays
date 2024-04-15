@@ -1,5 +1,5 @@
 ---
-title: the_pooledrisk_company_management_company
+title: 风险共担公司管理公司
 pubDate: 2006-11-08
 ---
 

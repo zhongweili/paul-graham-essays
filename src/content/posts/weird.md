@@ -1,5 +1,5 @@
 ---
-title: weird_languages
+title: 奇异的语言
 pubDate: 2021-01-01
 ---
 

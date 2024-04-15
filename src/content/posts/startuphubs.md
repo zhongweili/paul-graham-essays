@@ -1,5 +1,5 @@
 ---
-title: why_to_move_to_a_startup_hub
+title: 为什么要迁移到创业中心
 pubDate: 2007-01-01
 ---
 

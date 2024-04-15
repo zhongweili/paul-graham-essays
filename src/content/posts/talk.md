@@ -1,5 +1,5 @@
 ---
-title: write_like_you_talk
+title: 像你说话一样写作
 pubDate: 2020-01-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: the_future_of_web_startups
+title: 网络创业的未来
 pubDate: 2007-01-01
 ---
 

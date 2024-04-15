@@ -1,5 +1,5 @@
 ---
-title: see_randomness
+title: 看见随机性
 pubDate: 2009-01-01
 ---
 

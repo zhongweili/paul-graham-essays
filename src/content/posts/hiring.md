@@ -1,5 +1,5 @@
 ---
-title: hiring_is_obsolete
+title: 招聘已成过去式
 pubDate: 2006-01-10
 ---
 

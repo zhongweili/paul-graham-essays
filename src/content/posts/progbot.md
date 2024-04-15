@@ -1,5 +1,5 @@
 ---
-title: programming_bottomup
+title: 自底向上的编程方法
 pubDate: 1993-04
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: disconnecting_distraction
+title: 断开分心的连接
 pubDate: 2008-05-20
 ---
 

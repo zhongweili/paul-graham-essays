@@ -1,5 +1,5 @@
 ---
-title: some_heroes
+title: 一些英雄
 pubDate: 2008-01-01
 ---
 

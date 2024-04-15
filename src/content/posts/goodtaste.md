@@ -1,5 +1,5 @@
 ---
-title: is_there_such_a_thing_as_good_taste
+title: 是否存在所谓的好品味？
 pubDate: 2021-01-01
 ---
 

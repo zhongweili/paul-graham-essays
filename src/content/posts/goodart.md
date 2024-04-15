@@ -1,5 +1,5 @@
 ---
-title: how_art_can_be_good
+title: 如何判断艺术的优劣
 pubDate: 2007-01-26
 ---
 

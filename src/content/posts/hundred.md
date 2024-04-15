@@ -1,5 +1,5 @@
 ---
-title: the_hundredyear_language
+title: 百年语言
 pubDate: 2003-01-01
 ---
 

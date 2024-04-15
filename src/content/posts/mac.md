@@ -1,5 +1,5 @@
 ---
-title: return_of_the_mac
+title: Mac 的归来
 pubDate: 2005-01-01
 ---
 

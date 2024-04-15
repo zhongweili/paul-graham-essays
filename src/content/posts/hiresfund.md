@@ -1,5 +1,5 @@
 ---
-title: high_resolution_fundraising
+title: 高清晰度筹资
 pubDate: 2010-01-01
 ---
 

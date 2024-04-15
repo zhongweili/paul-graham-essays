@@ -1,5 +1,5 @@
 ---
-title: a_way_to_detect_bias
+title: 检测偏见的方法
 pubDate: 2020-09-10
 ---
 
@@ -24,9 +24,9 @@ pubDate: 2020-09-10
 
 **注释**
 
-<a name=a_way_to_detect_bias_note1>[1]</a> 如果选择过程针对不同类型的申请者寻找不同的东西，例如，雇主根据男性的能力而不是女性的外表来雇佣男性，那么这种技术就不起作用。
+<a name=检测偏见的方法_note1>[1]</a> 如果选择过程针对不同类型的申请者寻找不同的东西，例如，雇主根据男性的能力而不是女性的外表来雇佣男性，那么这种技术就不起作用。
 
-<a name=a_way_to_detect_bias_note2>[2]</a> 正如Paul Buchheit所指出的，First Round在研究中排除了他们最成功的投资Uber。虽然在某些类型的研究中排除异常值是有道理的，但从初创公司投资回报的研究来看，这些研究正是关于找到异常值的，排除它们并不合适。
+<a name=检测偏见的方法_note2>[2]</a> 正如Paul Buchheit所指出的，First Round在研究中排除了他们最成功的投资Uber。虽然在某些类型的研究中排除异常值是有道理的，但从初创公司投资回报的研究来看，这些研究正是关于找到异常值的，排除它们并不合适。
 
 感谢Sam Altman、Jessica Livingston和Geoff Ralston阅读本文草稿。
 

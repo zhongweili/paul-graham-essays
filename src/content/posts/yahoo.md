@@ -1,5 +1,5 @@
 ---
-title: what_happened_to_yahoo
+title: 雅虎发生了什么
 pubDate: 2010-01-01
 ---
 

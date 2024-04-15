@@ -1,5 +1,5 @@
 ---
-title: startup__growth
+title: 创业公司的增长
 pubDate: 2012-01-01
 ---
 

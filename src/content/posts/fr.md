@@ -1,5 +1,5 @@
 ---
-title: how_to_raise_money-new
+title: 如何筹集资金：新指南
 pubDate: 2014-03-01
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: the_other_half_of_artists_ship
+title: 艺术家出货的另一半
 pubDate: 2008-01-01
 ---
 

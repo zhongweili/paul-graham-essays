@@ -1,5 +1,5 @@
 ---
-title: beyond_smart
+title: 超越聪明
 pubDate: 2021-01-01
 ---
 

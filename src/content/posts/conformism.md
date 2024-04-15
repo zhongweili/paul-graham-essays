@@ -1,5 +1,5 @@
 ---
-title: the_four_quadrants_of_conformism
+title: 从众主义的四个象限
 pubDate: 2020-01-01
 ---
 

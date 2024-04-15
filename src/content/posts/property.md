@@ -1,5 +1,5 @@
 ---
-title: defining_property
+title: 定义属性
 pubDate: 2012-01-01
 ---
 

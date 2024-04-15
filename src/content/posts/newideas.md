@@ -1,5 +1,5 @@
 ---
-title: crazy_new_ideas
+title: 疯狂的新想法
 pubDate: 2021-01-01
 ---
 
